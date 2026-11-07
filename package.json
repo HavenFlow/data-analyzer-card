@@ -1,0 +1,12 @@
+{
+  "name": "data-analyzer-card",
+  "version": "1.0.9",
+  "description": "Multi-entity synchronized historical data analyzer card for Home Assistant with Floating Bars (Min/Max/Mean), dynamic heatmaps, Year-over-Year comparison, live entity autocomplete, and YAML GUI configuration sync.",
+  "main": "data-analyzer-card.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HavenFlow/data-analyzer-card.git"
+  },
+  "author": "HavenFlow",
+  "license": "MIT"
+}
